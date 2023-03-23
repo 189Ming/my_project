@@ -8,5 +8,8 @@ Hello world!
 * элемент 2
 * элемент 3
 
+1. первый элемент нумеровонного списка.
+2. второй элемент нумерованного списка.
+
 
 starting our education with version control.
