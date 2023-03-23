@@ -1,4 +1,4 @@
-numbers = [2, 25, 13, 7, 25, 4]
+numbers = [2, 25, 13, 7, 33, 4]
 size = 6
 index = 0
 avg = 0
